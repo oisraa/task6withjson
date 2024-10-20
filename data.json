@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "title": "First Post",
+    "description": "This is the first post description.",
+    "author": "Israa",
+    "date": "2023-09-30"
+  },
+  {
+    "id": 2,
+    "title": "Second Post",
+    "description": "This is the second post description.",
+    "author": "Manal",
+    "date": "2023-10-01"
+  },
+  {
+    "id": 3,
+    "title": "Third Post",
+    "description": "This is the third post description.",
+    "author": "Mohamad",
+    "date": "2023-10-02"
+  },
+  {
+    "id": 4,
+    "title": "fourth Post",
+    "description": "This is the fourth post description.",
+    "author": "ghazal",
+    "date": "2023-10-03"
+  },
+  {
+    "id": 5,
+    "title": "fifth Post",
+    "description": "This is the fifth post description.",
+    "author": "mariam",
+    "date": "2023-10-04"
+  },
+  {
+    "id": 6,
+    "title": "Updated Post Title",
+    "description": "Updated description.",
+    "author": "tala",
+    "date": "2023-10-05"
+  },
+  {
+    "title": "New Post",
+    "description": "This is a new post description.",
+    "author": "Ahmed",
+    "date": "2024-10-07"
+  },
+  {
+    "id": 8,
+    "title": "New Post",
+    "description": "This is a new post description.",
+    "author": "saria",
+    "date": "2024-10-09"
+  }
+]
